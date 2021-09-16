@@ -11,17 +11,16 @@
 ---
 
 
-## Contact with me
+## Contact with me:
 
 You can write to me via the e-mail address: <wojciech.szlosek@outlook.com>
 
 ---
 
 
-## My coding activity for this week:
+## Github activity:
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wszlosek&hide=javascript,html,tex,scss,css)](https://github.com/anuraghazra/github-readme-stats)
+         
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wszlosek&show_icons=true)
+
