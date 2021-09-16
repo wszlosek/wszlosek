@@ -20,10 +20,5 @@ You can write to me via the e-mail address: <wojciech.szlosek@outlook.com>
 
 ## Github Activity:
 
-<a href="https://github.com/wszlosek">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszlosek&theme=tokyonight" />
-  </a>
-  
-<a href="https://github.com/wszlosek">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wszlosek&show_icons=true&theme=tokyonight&line_height=27" alt="Wojtek's github stats"/>
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
