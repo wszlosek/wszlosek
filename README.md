@@ -18,7 +18,7 @@ You can write to me via the e-mail address: <wojciech.szlosek@outlook.com>
 ---
 
 
-## Github Activity:
+## My coding activity for this week:
 
 <!--START_SECTION:waka-->
 ```text
