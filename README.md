@@ -21,4 +21,7 @@ You can write to me via the e-mail address: <wojciech.szlosek@outlook.com>
 ## Github Activity:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
