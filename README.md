@@ -4,7 +4,7 @@
 
 - 👨‍💻  I’m an ambitious, young programmer.
 - 💻  Main programming languages: Java, C#, Python.
-- 💡  Member of the Computer Science Students Association KSI UJ.
+- 💡  I'm a member of the Computer Science Students Association KSI UJ.
 - 💼 [LinkedIn](https://www.linkedin.com/in/wojciech-szlosek/)
 - 📄  [Resume](https://wszlosek.github.io/website/resume.pdf)
 
@@ -18,9 +18,10 @@ You can write to me via the e-mail address: <wojciech.szlosek@outlook.com>
 ---
 
 
-## Github activity:
+## Github stats:
 
+<div align="center"> 
+         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wszlosek&hide=javascript,html,tex,scss,css)](https://github.com/anuraghazra/github-readme-stats)
          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wszlosek&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wszlosek&show_icons=true) </div>
