@@ -22,6 +22,6 @@ You can write to me via the e-mail address: <wojciech.szlosek@outlook.com>
 
 <div align="center"> 
          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wszlosek&hide=javascript,html,tex,scss,css&exclude_repo=Advent-of-Code-2021-Swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wszlosek&hide=javascript,html,tex,scss,css&exclude_repo=Advent-of-Code-2021-Swift,UJ-iOS)](https://github.com/anuraghazra/github-readme-stats)
          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wszlosek&show_icons=true) </div>
