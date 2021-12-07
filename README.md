@@ -2,11 +2,11 @@
 
 ## I'm a third-year student of Computer Science at the Jagiellonian University (Kraków, Poland). 
 
-- 👨‍💻  I’m an ambitious, young programmer.
-- 💻  Main programming languages: Java, Kotlin, C#, Python.
-- 💡  I'm a member of the Computer Science Students Association KSI UJ.
-- 💼 [LinkedIn](https://www.linkedin.com/in/wojciech-szlosek/)
-- 📄  [Resume](https://wszlosek.github.io/website/resume.pdf)
+- 👨‍💻 &nbsp; I’m an ambitious, young programmer.
+- 💻 &nbsp; Main programming languages: Java, Kotlin, C#, Python.
+- 💡 &nbsp; I'm a member of the Computer Science Students Association KSI UJ.
+- 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/wojciech-szlosek/)
+- 📄 &nbsp; [Resume](https://wszlosek.github.io/website/resume.pdf)
 
 ---
 
