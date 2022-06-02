@@ -1,9 +1,9 @@
-# <h1 align="center"> Hello there! I'm [Wojtek](https://wszlosek.github.io/website/) :wave:</h1>
+# <h1 align="center"> Hello there! My name is [Wojtek](https://wszlosek.github.io/website/) :wave:</h1>
 
-## I'm a third-year student of Computer Science at the Jagiellonian University (Kraków, Poland). 
+#### I'm a Junior Software Engineer, currently working at [XTB](https://www.xtb.com/pl). Also I'm a third-year student of Computer Science at the Jagiellonian University. 
 
 - 👨‍💻 &nbsp; I’m an ambitious, young programmer.
-- 💻 &nbsp; Main programming languages: Java, Kotlin, Python.
+- 💻 &nbsp; Main programming languages: Java, Scala, Kotlin, Python.
 - 💡 &nbsp; I'm a member of the Computer Science Students Association KSI UJ.
 - 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/wojciech-szlosek/)
 - 📄 &nbsp; [Resume](https://wszlosek.github.io/website/resume.pdf)
