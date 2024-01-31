@@ -1,6 +1,6 @@
 # <h1 align="center"> Hello there! My name is [Wojtek](https://wszlosek.github.io/website/) :wave:</h1>
 
-### I'm a Junior Software Engineer, currently working at [@XTB](https://www.xtb.com/pl). Also I'm a fifth-year student of Computer Science at the Jagiellonian University. 
+### I'm a Junior Software Engineer, currently working at [XTB](https://www.xtb.com/pl). Also I'm a fifth-year student of Computer Science at the Jagiellonian University. 
 
 - 👨‍💻 &nbsp; I’m an ambitious, young programmer.
 - 💻 &nbsp; Main programming languages: Java, Scala, Kotlin, Python.
